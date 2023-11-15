@@ -35,5 +35,7 @@ The assertEqual statements check whether the actual results match the expected r
 To run this code, save it in a file (e.g., system_test.py) and execute it. The testing framework will run the specified tests and report any failures or errors.
 Remember that this is a basic example. In a real-world scenario, you would have more complex systems, additional test cases, and possibly use more advanced testing tools and frameworks depending on the language and technology stack of your system.
 
+**Wrapping Up**
+Getting stuck is tough, and getting unstuck is a skill that every developer needs to learn. While it can often seem daunting, I hope this code guide has provided you with a better idea of how to get software programming help online. The only way to avoid getting stuck is to keep learning and keep trying to master your craft, also you can ask for help with assgnment world. For developers, coding help can always be found online and with enough time and grit, any coding problem can be solved. 
 
 
